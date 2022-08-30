@@ -1,0 +1,3 @@
+# LeetCode
+
+Mostly python
